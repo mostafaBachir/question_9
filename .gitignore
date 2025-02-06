@@ -33,3 +33,4 @@ crash.log
 # Ignorer les fichiers spécifiques aux systèmes d'exploitation
 .DS_Store
 Thumbs.db
+.gitignore
